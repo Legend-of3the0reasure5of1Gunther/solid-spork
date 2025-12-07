@@ -1,1 +1,1 @@
-"# Git "experiment" 
+"# Git "这是一个用于软件工程实验的Git学习仓库" 
